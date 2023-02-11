@@ -1,5 +1,5 @@
 const Kelvin = 309;  // Kelvin Degrees
-console.log(`The temperature is ${Kelvin} degrees Kelvin.`);  // Prints on console Kelvin Degrees
+console.log(`The temperature is ${Kelvin} degrees Kelvin.`); // Prints on console Kelvin Degrees
 
 const Celsius = Kelvin - 273;  // Celcius Degrees
 console.log(`The temperature is ${Celsius} degrees Celsius.`);  // Prints on console Celsius Degrees
